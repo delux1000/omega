@@ -1,0 +1,13 @@
+{
+  "name": "omegar-care-website",
+  "version": "2.0.0",
+  "description": "Omegar Care Limited - Professional Healthcare Website with Media",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
